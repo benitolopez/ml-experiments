@@ -5,3 +5,4 @@ This repository contains my ongoing experiments with machine learning. The goal 
 ## Current Experiments
 
 - [xor](/xor) – A simple MLP solving the XOR problem using backpropagation with configurable neurons.
+- [iris](/iris) – A neural network trained on the Iris dataset using backpropagation, capable of classifying flowers into three species.
