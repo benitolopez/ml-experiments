@@ -20,7 +20,7 @@ The XOR (exclusive OR) function is a classic non-linear problem, defined as:
 -	Activation Function: tanh, used instead of ReLU because ReLU caused issues in training
 -	Loss Function: Binary Cross-Entropy
 
-# Expected Output
+## Expected Output
 
 After training, the network should correctly approximate XOR outputs:
 
