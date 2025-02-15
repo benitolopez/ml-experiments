@@ -38,6 +38,9 @@
 *.hex
 
 # Debug files
+build
+
+# Debug files
 *.dSYM/
 *.su
 *.idb
