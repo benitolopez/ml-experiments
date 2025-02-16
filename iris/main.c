@@ -11,7 +11,7 @@ int main() {
 
   FILE *file = fopen("data/iris.data", "r");
   if (file == NULL) {
-    printf("Error: Cannot dataset file.\n");
+    printf("Error: Cannot read the dataset file.\n");
     return 1;
   }
 
