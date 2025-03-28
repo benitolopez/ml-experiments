@@ -4,7 +4,7 @@ This repository contains my ongoing experiments with machine learning. The goal 
 
 ## Current Experiments
 
-- [GridWorld](/gridworld) – A reinforcement learning implementation demonstrating Q-learning to solve a GridWorld environment, balancing exploration and exploitation.
+- [gridworld](/gridworld) – A reinforcement learning implementation demonstrating Q-learning to solve a GridWorld environment, balancing exploration and exploitation.
 - [MNIST](/MNIST) – A feedforward neural network for handwritten digit recognition, trained on the MNIST dataset with support for multiple hidden layers.
 - [trigram](/trigram) – A character-level trigram model implemented from scratch to generate names, demonstrating basic statistical language modeling.
 - [iris](/iris) – A neural network trained on the Iris dataset using backpropagation, capable of classifying flowers into three species.
